@@ -1,0 +1,6 @@
+The TicTacToe game can be run from Terminal using following command:
+
+python3 /usr/bin/TicTacToe.py
+
+NOTE: Ensure that tkinter is installed before running the program
+      Command for installing tkinter: sudo apt-get install python3-tk
