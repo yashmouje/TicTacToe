@@ -1,0 +1,5 @@
+The TicTacToe game can be run from Terminal using following command:
+
+python3 /usr/bin/TicTacToe-2.py
+
+
